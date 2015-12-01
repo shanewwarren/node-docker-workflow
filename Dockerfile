@@ -1,3 +1,5 @@
+RUN cd /app
+
 FROM node:latest
 
 RUN mkdir /src
